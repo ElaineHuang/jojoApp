@@ -1,0 +1,29 @@
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+.warning-block,
+.api-block {
+  max-width: 500px;
+  border: 1px solid #ffeeba;
+  background: #fff3cd;
+  border-radius: 3px;
+  padding: 20px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+.api-block {
+  border: 1px solid #bee5eb;
+  background: #d1ecf1;
+  padding: 20px 20px 20px 50px;
+
+  p {
+    margin: 0;
+  }
+
+  h4 {
+    margin-top: 0;
+  }
+}
